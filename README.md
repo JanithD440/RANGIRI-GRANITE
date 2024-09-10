@@ -1,2 +1,0 @@
-# RANGIRI-GRANITE
-Group project
